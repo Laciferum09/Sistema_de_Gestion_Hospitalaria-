@@ -1,0 +1,7 @@
+CÉDULA          NOMBRE                         EDAD   DIAGNÓSTICO                    PRIORIDAD  FECHA/HORA ATENCIÓN   
+------------------------------------------------------------------------------------------------------------------------
+11970071        Mario Ruiz Madrigal            16     Cancer                         CRÍTICO    08/03/2026 00:34:34   
+103280137       Wilberth                       81     Trauma de cadera               URGENTE    08/03/2026 15:51:30   
+119500608       Gustavo Sibaja Chaves          20     TDAH                           NORMAL     09/03/2026 17:57:12   
+119900553       Jurguen                        18     Cancer                         CRÍTICO    09/03/2026 18:26:49   
+119500608       GUSTAVO FABRICIO SIBAJA CHAVES 20     TDAH                           NORMAL     21/03/2026 19:42:39   
